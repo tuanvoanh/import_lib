@@ -1,0 +1,6 @@
+include README.md
+recursive-include plat_import_lib_api/services *
+recursive-include plat_import_lib_api/sub_serializers *
+recursive-include plat_import_lib_api/sub_views *
+recursive-include plat_import_lib_api/static_variable *
+recursive-include plat_import_lib_api/fixtures *

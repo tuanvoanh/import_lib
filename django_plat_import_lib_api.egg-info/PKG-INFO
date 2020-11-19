@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: django-plat-import-lib-api
+Version: 0.1
+Summary: A app for make data import csv, excel to service connect with elastic search
+Home-page: https://gitlab.com/hd-bpo/plat-import-lib-api-py
+Author: Giang Son Dat
+Author-email: datgs@hdwebsoft.com
+License: CBPO
+Description: ""
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 2.0
+Classifier: Framework :: Django :: 2.1
+Classifier: Framework :: Django :: 2.2
+Classifier: Framework :: Django :: 3.0
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
